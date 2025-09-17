@@ -23,23 +23,15 @@ An interactive AI-powered chatbot built with **Machine Learning** and **Streamli
 
 ---
 
-## Project Structure 
-HealthCare-ChatBot/
-│
-├── Data/ # Training & testing datasets
-│ ├── Training.csv
-│ ├── Testing.csv
-│
-├── MasterData/ # Additional metadata
-│ ├── symptom_Description.csv
-│ ├── symptom_precaution.csv
-│ ├── symptom_severity.csv
-│
-├── app.py # Main Streamlit app
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation 
 
+## Dataset Information
 
+- **Training.csv** – Dataset used to train the chatbot model  
+- **Testing.csv** – Dataset used to validate model accuracy  
+- **MasterData/** – Metadata for symptoms including:
+  - `symptom_Description.csv` – Details about each symptom  
+  - `symptom_precaution.csv` – Recommended precautions  
+  - `symptom_severity.csv` – Severity score of each symptom  
 ---
 
 ## Demo Screenshots  
