@@ -45,7 +45,7 @@ HealthCare-ChatBot/
 ## Demo Screenshots  
 
 ### Home Page  
-![App Screenshot](images/Screenshot-1png)  
+![App Screenshot](images/Screenshot-1.png)  
 
 ### Prediction Example  
 ![Prediction Screenshot](images/Screenshot-2.png) 
