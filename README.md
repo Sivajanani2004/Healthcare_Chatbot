@@ -42,27 +42,34 @@ HealthCare-ChatBot/
 
 ---
 
-## Installation & Usage  
-
-1. **Clone the repository**  
-```bash
-git clone https://github.com/your-username/HealthCare-ChatBot.git
-cd HealthCare-ChatBot
-
- 2. Install dependencies
- ```bash
- pip install -r requirements.txt
-
-3. Run the Streamlit app
- ```bash
- streamlit run app.py
-
 ## Demo Screenshots  
 
 ### Home Page  
 ![App Screenshot](images/Screenshot-1png)  
 
 ### Prediction Example  
-![Prediction Screenshot](images/Screenshot-2.png)  
+![Prediction Screenshot](images/Screenshot-2.png) 
+
+---
+
+## How to Run Locally  
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/Your-username/Healthcare_Chatbot
+   cd Healthcare_chatbot
+ 
+2. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app
+   ```bash
+   streamlit run app.py
+
+4. Open in your browser
+   http://localhost:8501
+
+ 
 
 
