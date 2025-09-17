@@ -25,9 +25,9 @@ An interactive AI-powered chatbot built with **Machine Learning** and **Streamli
 
 
 ## Dataset Information
-
-- **Training.csv** – Dataset used to train the chatbot model  
-- **Testing.csv** – Dataset used to validate model accuracy  
+- **Data*/** - Datas including Training and Testing
+   - `Training.csv**` – Dataset used to train the chatbot model  
+   - `Testing.csv` – Dataset used to validate model accuracy  
 - **MasterData/** – Metadata for symptoms including:
   - `symptom_Description.csv` – Details about each symptom  
   - `symptom_precaution.csv` – Recommended precautions  
